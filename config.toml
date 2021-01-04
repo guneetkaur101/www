@@ -1,10 +1,10 @@
 title = "Guneet Kaur"
 
 
-baseURL = "http://code.gndec.ac.in/~2017101/www"
+baseURL = "https://guneetkaur101.github.io/www"
  
 
-publishDir = "../public_html/www"
+publishDir ="docs"
 
 languageCode = "en-us"
 theme = "ananke"

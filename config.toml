@@ -38,5 +38,5 @@ enableRobotsTXT = true
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
-  featured_image = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fece-engineering-wallpapers&psig=AOvVaw3BIZrJg3mk1tA8s9Aahg0o&ust=1610371213644000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCl-rK6ke4CFQAAAAAdAAAAABAD"
+  featured_image = "https://www.gstatic.com/webp/gallery/1.jpg "
   recent_posts_number = 2
